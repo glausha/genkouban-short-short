@@ -69,5 +69,5 @@ buttons.forEach((button) => {
   });
 });
 
-loadText(document.querySelector('#story'), `${encodeURI('現行版_v3.txt')}?v=v3-13`, storyMarkup);
-loadText(document.querySelector('#notes'), `${encodeURI('現行版_v3.txt.read')}?v=v3-13`, notesMarkup);
+loadText(document.querySelector('#story'), `${encodeURI('現行版_v3.txt')}?v=v3-14`, storyMarkup);
+loadText(document.querySelector('#notes'), `${encodeURI('現行版_v3.txt.read')}?v=v3-14`, notesMarkup);
